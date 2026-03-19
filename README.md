@@ -32,8 +32,4 @@
 
 ---
 
-
-
----
-
 *Open to developer roles · Israel*
