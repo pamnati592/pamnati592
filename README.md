@@ -32,9 +32,7 @@
 
 ---
 
-### GitHub Stats
 
-![Netanel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamnati592&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=AAB3C2&bg_color=080B12)
 
 ---
 
