@@ -1,6 +1,6 @@
 # Hi, I'm Netanel Pam 👋
 
-**Software Developer · CS Student · AI & Kubernetes Enthusiast**
+**Software Developer · CS Student · AI Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pamnati592.github.io-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://pamnati592.github.io)
 [![Email](https://img.shields.io/badge/Email-pamnati592%40gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:pamnati592@gmail.com)
