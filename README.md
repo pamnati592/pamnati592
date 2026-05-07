@@ -75,6 +75,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Current_Focus-AI_%26_Cloud_Native_Engineering-0D1220?style=flat-square&color=8B5CF6" />
-  <img src="https://img.shields.io/badge/Open_To-Developer_Roles_%F0%9F%87%AE%F0%9F%87%B1-0D1220?style=flat-square&color=7C3AED" />
+  <img src="https://img.shields.io/badge/Currently_%40-Proofpoint-0D1220?style=flat-square&color=8B5CF6&logo=proofpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Automation_Engineer-0D1220?style=flat-square&color=7C3AED" />
+  <img src="https://img.shields.io/badge/Based_In-Israel_%F0%9F%87%AE%F0%9F%87%B1-0D1220?style=flat-square&color=6D28D9" />
 </div>
