@@ -74,21 +74,6 @@
 
 <br/>
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pamnati592&show_icons=true&bg_color=0D1220&title_color=8B5CF6&text_color=E8EAF0&icon_color=8B5CF6&hide_border=true&include_all_commits=true&ring_color=8B5CF6" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamnati592&layout=compact&bg_color=0D1220&title_color=8B5CF6&text_color=E8EAF0&hide_border=true&langs_count=6" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pamnati592&background=0D1220&currStreakLabel=8B5CF6&fire=8B5CF6&ring=8B5CF6&sideNums=E8EAF0&sideLabels=E8EAF0&dates=AAB3C2&stroke=8B5CF6&hide_border=true" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Current_Focus-AI_%26_Cloud_Native_Engineering-0D1220?style=flat-square&color=8B5CF6" />
   <img src="https://img.shields.io/badge/Open_To-Developer_Roles_%F0%9F%87%AE%F0%9F%87%B1-0D1220?style=flat-square&color=7C3AED" />
