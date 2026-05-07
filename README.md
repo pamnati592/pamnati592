@@ -25,7 +25,7 @@
 <br/>
 
 ### 🏆 Featured Project
-> **Latest Release:** `PredictXI` — AI football match prediction platform on Kubernetes.
+> **Latest Release:** `PredictXI`, an AI football match prediction platform on Kubernetes.
 
 <div align="center">
   <a href="https://github.com/pamnati592/PredictXI">
@@ -45,7 +45,7 @@
 | :--- | :--- | :--- |
 | **[⚽ PredictXI](https://github.com/pamnati592/PredictXI)** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) | **AI Football Prediction.** End-to-end ML platform deployed on Kubernetes with Helm. Combines historical match data and real-time form analysis with a **Groq LLM** explanation layer. |
 | **[🤖 AI Technical Support Bot](https://github.com/pamnati592/AI_technical_support_bot)** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![GPT-4o](https://img.shields.io/badge/-GPT--4o-412991?logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-000000) | **Production RAG Chatbot.** A retrieval-augmented support assistant with **GPT-4o**, ChromaDB vector store, IP monitoring, smart suggestions, and packaged EXE distribution for end-users. |
-| **[🎯 find_job](https://github.com/pamnati592/find_job)** | ![Claude](https://img.shields.io/badge/-Claude_Code-D97757?logo=anthropic&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-89E051?logo=gnubash&logoColor=black) ![Automation](https://img.shields.io/badge/-Automation-8B5CF6) | **AI Agent Skill.** A Claude Code skill that automates job search end-to-end — discovers relevant openings, generates tailored resumes per role, and streamlines the application pipeline. |
+| **[🎯 find_job](https://github.com/pamnati592/find_job)** | ![Claude](https://img.shields.io/badge/-Claude_Code-D97757?logo=anthropic&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-89E051?logo=gnubash&logoColor=black) ![Automation](https://img.shields.io/badge/-Automation-8B5CF6) | **AI Agent Skill.** A Claude Code skill that automates job search end-to-end: discovers relevant openings, generates tailored resumes per role, and streamlines the application pipeline. |
 
 <br/>
 
