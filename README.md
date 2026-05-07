@@ -25,13 +25,13 @@
 <br/>
 
 ### 🏆 Featured Project
-> **Currently Building:** `PredictXI` — AI football match prediction platform on Kubernetes.
+> **Latest Release:** `PredictXI` — AI football match prediction platform on Kubernetes.
 
 <div align="center">
   <a href="https://github.com/pamnati592/PredictXI">
-    <img src="https://img.shields.io/badge/PredictXI-v0.1-8B5CF6?style=flat-square&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/PredictXI-v1.0-8B5CF6?style=flat-square&logo=kubernetes&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/status-in_development-4C1D95?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-shipped-4C1D95?style=flat-square" />
   <img src="https://img.shields.io/badge/stack-React_%2B_Node_%2B_K8s-6D28D9?style=flat-square" />
   <br/><br/>
   <code>kubectl apply -f predictxi/</code>
@@ -52,16 +52,17 @@
 ### ⚡ Technical Arsenal
 
 <div align="center">
+  <img src="https://img.shields.io/badge/AI%20Tools-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square&logo=anthropic&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -83,7 +84,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamnati592&background=0D1220&currStreakLabel=8B5CF6&fire=8B5CF6&ring=8B5CF6&sideNums=E8EAF0&sideLabels=E8EAF0&dates=AAB3C2&stroke=8B5CF6&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=pamnati592&background=0D1220&currStreakLabel=8B5CF6&fire=8B5CF6&ring=8B5CF6&sideNums=E8EAF0&sideLabels=E8EAF0&dates=AAB3C2&stroke=8B5CF6&hide_border=true" />
 </div>
 
 <br/>
