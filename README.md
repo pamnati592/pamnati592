@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/status-shipped-4C1D95?style=flat-square" />
   <img src="https://img.shields.io/badge/stack-React_%2B_Node_%2B_K8s-6D28D9?style=flat-square" />
   <br/><br/>
-  <code>helm install predictxi ./predictxi</code>
+  <code>helm install predictxi oci://ghcr.io/pamnati592/predictxi</code>
 </div>
 
 <br/>
